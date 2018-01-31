@@ -1,0 +1,35 @@
+.col-sm-6, .col-sm-12, .col-sm-4 {
+  background-color: #A4E7E5;
+  border: 2px solid #F5EFFF;
+  height: 100px
+}
+
+.btn {
+  background-color: #A594F9;
+}
+
+.jumbotron {
+  background-color: #3DCCC7;
+  border-radius: 30px;
+}
+
+.navbar {
+  border-radius: 20px;
+}
+
+body, html, .container, {
+  background-color: solid  #F5EFFF;
+}
+
+#carouselSmallMistakes {
+  display:none;
+}
+#carouselBigMistakes{
+  display:none;
+  height: 500px;
+}
+.d-block {
+  max-height: 450px;
+  object-fit: contain;
+  margin: auto;
+}
